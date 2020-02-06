@@ -10,7 +10,9 @@ Today, I’m actively seeking a full-time Software Engineering position. Below a
 
 ## Projects
 
-### [I'm an inline-style link](https://www.google.com)
+### PerfectBouquet | Web Application
+[Open the Repo](https://github.com/apmcknight/perfectbouquet)
+[Open the Live Site] (https://apmcknight.github.io/perfectbouquet/index.html)
 
 ## Education
 
