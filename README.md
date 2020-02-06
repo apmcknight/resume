@@ -11,8 +11,27 @@ Today, I’m actively seeking a full-time Software Engineering position. Below a
 ## Projects
 
 ### PerfectBouquet | Web Application
-[Open the Repo](https://github.com/apmcknight/perfectbouquet)
+[Open the Repo](https://github.com/apmcknight/perfectbouquet) <br/>
 [Open the Live Site](https://apmcknight.github.io/perfectbouquet/index.html)
+
+### Banner Ads | HTML 5 Banner Ads
+Created using Google Web Designer
+
+[Open the Repo](https://github.com/apmcknight/banner-ads) <br/>
+[Open the Square Demo](https://apmcknight.github.io/banner-ads/production-square-ad/index.html) <br/>
+[Open the Skyscraper Demo](https://apmcknight.github.io/banner-ads/production-ad-skyscraper/index.html)
+
+### Journal Prompt | Native / Progressive Web App
+Created using the Ionic Framework
+
+[Open the Repo](https://github.com/apmcknight/journal-prompt) <br/>
+Development on this Project, is still in progress.
+
+### MadLib | C# / .NET Console App
+
+[Open the Repo](https://github.com/apmcknight/mad-lib) <br/>
+Directions to run the console app are located within the repo's README.md file.
+
 
 ## Education
 
